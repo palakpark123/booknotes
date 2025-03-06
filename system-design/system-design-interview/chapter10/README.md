@@ -1,5 +1,7 @@
 # Design a Web Crawler
 We'll focus next on designing a web crawler - a classical system design problem.
+A web crawler is a program that automatically traverses the web by downloading the web pages and following the links from one page to another.
+It is used to index the web for search engines, collect data for research or montitor website for changes.
 
 Web crawlers (aka robots) are used to discover new or updated content on the web, such as articles, videos, PDFs, etc.
 ![web-crawler-example](images/web-crawler-example.png)
